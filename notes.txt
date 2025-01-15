@@ -4,3 +4,6 @@ startou por qual , se estartou por x nao pode terminar por x e vise versa
 
 
 futuramente se surgir a necessidade fazer uma aba pra baixar a legenda baseado no nome do arquivo formatado por regex , buscando na api do open subtitles
+
+
+
